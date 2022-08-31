@@ -16,8 +16,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratap-divyansh/)&nbsp; &nbsp;
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/dev-divyansh/) &nbsp; &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=1729divyansh@gmail.com&tf=cm)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:1729divyansh@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-007B5?style=for-the-badge&logo=twitter&logoColor=blue)](https://www.twitter.com/dev_pratap3250/)
 
 ##  Technologies
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
@@ -28,6 +28,6 @@
 [![CSS ](https://img.shields.io/badge/CSS-FF0000?style=for-the-badge&logo=css&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
 
 [![MySQL](https://img.shields.io/badge/MySQL-ED8B00?style=for-the-badge&logo=sql&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
-[![Java Script](https://img.shields.io/badge/JavaScript-FF0000?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
+[![Java Script](https://img.shields.io/badge/Java-Script-FF0000?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
 [![ Flutter  ](https://img.shields.io/badge/Flutter-00008B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
-
+[![PHP](https://img.shields.io/badge/PHP-ED8B00?style=for-the-badge&logo=php&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;

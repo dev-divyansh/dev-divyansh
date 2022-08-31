@@ -22,5 +22,12 @@
 ##  Technologies
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
 [![Python](https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
+[![ C  ](https://img.shields.io/badge/C-00008B?style=for-the-badge&logo=c&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
+[![ React Native  ](https://img.shields.io/badge/React-Native-ED8B00?style=for-the-badge&logo=react&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
+[![ HTML ](https://img.shields.io/badge/HTML-00008B?style=for-the-badge&logo=html&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
+[![CSS ](https://img.shields.io/badge/CSS-FF0000?style=for-the-badge&logo=css&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
 
+[![MySQL](https://img.shields.io/badge/MySQL-ED8B00?style=for-the-badge&logo=sql&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
+[![Java Script](https://img.shields.io/badge/JavaScript-FF0000?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
+[![ Flutter  ](https://img.shields.io/badge/Flutter-00008B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
 

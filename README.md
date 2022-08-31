@@ -19,7 +19,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:1729divyansh@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-007B5?style=for-the-badge&logo=twitter&logoColor=blue)](https://www.twitter.com/dev_pratap3250/)
 
-##  Technologies
+##  Language's and Tools I  use
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
 [![Python](https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
 [![ C  ](https://img.shields.io/badge/C-00008B?style=for-the-badge&logo=c&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;

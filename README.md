@@ -1,5 +1,11 @@
-- 👋 Hi, I’m @dev-divyansh
-- 👀 I’m interested in  Android  development and in contributing  to open source and also in building cool stuff out of code.
-- 🌱 I’m a native app developer
-- 💞️ I’m looking to collaborate on Android  development and always open to learn new stuff
-- 📫 You can reach me at : 1729divyansh@gmail.com
+
+# Hey there! - How  you doing ?  <br> <img height=100  src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/wave-animation.gif"/> 
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=30&duration=3000&pause=5&color=F7441A&width=435&lines=I+write+Code....;write+more+code...;build+more+stuff....)](https://git.io/typing-svg)
+
+### 🎈self taught Programmer 
+### 🎈started Coding from the Age of  13 
+### 🎈building cool stuff out of code
+### 🎈Open Source 😍 
+### 🎈love teaching  coding , participating in Hackathons , Building Community 

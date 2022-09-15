@@ -10,6 +10,10 @@
 ### 🎈building cool stuff out of code
 ### 🎈Open Source 😍 
 ### 🎈love teaching  coding  
+
+## ✍ Blog's and Post
+- [Understanding ArrayList](https://dev.to/devdivyansh/understanding-arraylist-3ieh)
+- [finding size of array in C](https://dev.to/devdivyansh/finding-size-of-array-in-c-4l87)
 <a href="">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=dev-divyansh&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=7C65A9&icon_color=007bff&bg_color=171c28" />
 <a />

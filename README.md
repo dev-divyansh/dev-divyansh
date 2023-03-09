@@ -33,7 +33,7 @@
 ##  Language's and Tools I  use
 [![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
 [![Kotlin](https://img.shields.io/badge/Kotlin-ED8B00?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
-  [![Golang](https://img.shields.io/badge/go-ED8B00?style=for-the-badge&logo=go&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
+  [![Golang](https://img.shields.io/badge/go-87CEEB?style=for-the-badge&logo=go&logoColor=blue)](https://github.com/dev-divyansh) &nbsp; &nbsp;
 [![Python](https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
 [![ C  ](https://img.shields.io/badge/C-00008B?style=for-the-badge&logo=c&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
 [![ React Native  ](https://img.shields.io/badge/React-Native-ED8B00?style=for-the-badge&logo=react&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;

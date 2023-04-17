@@ -50,14 +50,14 @@
 </p>
   
 
-## Social's
+<!-- ## Social's
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratap-divyansh/)&nbsp; &nbsp;
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/dev-divyansh/) &nbsp; &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:1729divyansh@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-007B5?style=for-the-badge&logo=twitter&logoColor=blue)](https://www.twitter.com/dev_pratap3250/)
-
+[![Twitter](https://img.shields.io/badge/Twitter-007B5?style=for-the-badge&logo=twitter&logoColor=blue)](https://www.twitter.com/dev_pratap3250/) -->
+<!-- 
 ##  Language's and Tools I  use
 [![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
 [![Kotlin](https://img.shields.io/badge/Kotlin-ED8B00?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
@@ -72,7 +72,8 @@
 [![Java Script](https://img.shields.io/badge/Java-Script-FF0000?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
 
 [![PHP](https://img.shields.io/badge/PHP-ED8B00?style=for-the-badge&logo=php&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
-  
+   -->
   [![Divyansh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dev-divyansh&bg_color=000000&color=613583&line=613583&point=57e389&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<!-- 
 ### let's Connect - Open to collaborate
+ -->

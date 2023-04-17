@@ -16,11 +16,18 @@
 - [finding size of array in C](https://dev.to/devdivyansh/finding-size-of-array-in-c-4l87)
 
 ### 📈📊 Stats
+<p align="left">
 <a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=dev-divyansh&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=7C65A9&icon_color=007bff&bg_color=171c28" />
+  <img align="centre" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-divyansh&theme=radical" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=dev-divyansh&theme=tokyonight" />
 <a />
+</p>
+  <p align="center">
+<a href="">
+  <img align="centre" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-divyansh&theme=radical" />
+<a />
+</p>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-divyansh&layout=compact&title_color=007bff&text_color=7C65A9&icon_color=007bff&bg_color=171c28)
 
 ## Social's
 
@@ -44,5 +51,7 @@
 [![Java Script](https://img.shields.io/badge/Java-Script-FF0000?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
 
 [![PHP](https://img.shields.io/badge/PHP-ED8B00?style=for-the-badge&logo=php&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
+  
+  [![Divyansh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dev-divyansh&bg_color=000000&color=613583&line=613583&point=57e389&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### let's Connect - Open to collaborate

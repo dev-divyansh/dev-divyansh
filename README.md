@@ -16,6 +16,9 @@
 - [finding size of array in C](https://dev.to/devdivyansh/finding-size-of-array-in-c-4l87)
 
 ### 📈📊 Stats
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=dev-divyansh&label=Profile%20Visits&color=1&pretty=false" />
+</a>
 <p align="left">
 <a href="">
   <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-divyansh&theme=radical" />

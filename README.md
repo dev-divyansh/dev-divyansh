@@ -18,8 +18,8 @@
 ### 📈📊 Stats
 <p align="left">
 <a href="">
-  <img align="centre" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-divyansh&theme=radical" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=dev-divyansh&theme=tokyonight" />
+  <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-divyansh&theme=radical" />
+  <img align="" src="https://github-readme-streak-stats.herokuapp.com?user=dev-divyansh&theme=tokyonight" />
 <a />
 </p>
   <p align="center">

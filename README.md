@@ -73,7 +73,16 @@
 
 [![PHP](https://img.shields.io/badge/PHP-ED8B00?style=for-the-badge&logo=php&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
    -->
-  [![Divyansh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dev-divyansh&bg_color=000000&color=613583&line=613583&point=57e389&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+   <br/>
+   <br/>
+<h2>Blog's</h2>
+<br/>
+
+[ How to run a Python Code inside our Native Android App ? ](https://dev-divyansh.hashnode.dev/how-to-run-a-python-code-inside-our-native-android-app)
+
+
+
+<!--  [![Divyansh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dev-divyansh&bg_color=000000&color=613583&line=613583&point=57e389&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 <!-- 
 ### let's Connect - Open to collaborate
  -->

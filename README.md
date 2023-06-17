@@ -103,7 +103,7 @@
 <h4>Conducted an API 101 session . Covered about API's their types covered how to use POSTMAN ( API testingtool ) . Had hands where the viewers saved a joke to the server using the POST method . </h4>
 ( click on icon to view the recording )
 <a href="https://media.licdn.com/dms/image/C5622AQExwhfrMSr-Tg/feedshare-shrink_2048_1536/0/1677966331376?e=1689811200&v=beta&t=fs5_jKzR1cKp0g8iqjd4rFeKkx4gCG-yIMPItZb6tzM">
- <img src="https://media.licdn.com/dms/image/C5622AQExwhfrMSr-Tg/feedshare-shrink_2048_1536/0/1677966331376?e=1689811200&v=beta&t=fs5_jKzR1cKp0g8iqjd4rFeKkx4gCG-yIMPItZb6tzM" alt="java" width="300" height="200">
+ <img src="https://media.licdn.com/dms/image/C5622AQExwhfrMSr-Tg/feedshare-shrink_2048_1536/0/1677966331376?e=1689811200&v=beta&t=fs5_jKzR1cKp0g8iqjd4rFeKkx4gCG-yIMPItZb6tzM" alt="java" width="400" height="500">
 </a>
 
 <hr/>

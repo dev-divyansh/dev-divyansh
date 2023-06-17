@@ -9,30 +9,16 @@
 <a href="https://linkedin.com/in/pratap-divyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratap-divyansh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@geeky-dps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="geeky-dps" height="30" width="40" /></a></p>
 
+<hr/>
+<hr/>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
+<hr/>
+<hr/>
 
-
-
-<!-- 
-# Hey there! - How  you doing ?  <br> <img height=100  src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/wave-animation.gif"/> 
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=30&duration=3000&pause=5&color=F7441A&width=435&lines=I+write+Code....;write+more+code...;build+more+stuff....)](https://git.io/typing-svg)
-
-
-### 🎈self taught Programmer 
-### 🎈introduced to coding  at 13
-### 🎈building cool stuff out of code
-### 🎈Open Source 😍 
-### 🎈love teaching  coding  
-
-## ✍ Blog's and Post
-- [Understanding ArrayList](https://dev.to/devdivyansh/understanding-arraylist-3ieh)
-- [finding size of array in C](https://dev.to/devdivyansh/finding-size-of-array-in-c-4l87)
- -->
 ### 📈📊 Stats
 <!-- <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=dev-divyansh&label=Profile%20Visits&color=1&pretty=false" />
@@ -75,10 +61,17 @@
    -->
    <br/>
    <br/>
+
+ <hr/>
+ <hr/>
+ 
 <h2>Blog's</h2>
 <br/>
 
 [ How to run a Python Code inside our Native Android App ? ](https://dev-divyansh.hashnode.dev/how-to-run-a-python-code-inside-our-native-android-app)
+
+<hr/>
+<hr/>
 
 <h2>Android Workshop's / Session's  </h2>
 
@@ -94,7 +87,7 @@
 <br/>
 
 <br/>
-<h4> Conducted a JAVA Bootcamp for OreoDroider's Community ; It was 4 day bootcamp covering beginner level to intermediate level concepts and having a talk on Object Oriented Programming covering concepts like encapsulation , abstraction , ploymorphism & inheritance .  </h4>
+<h4> Conducted a JAVA Bootcamp for OreoDroider's Community ; A 4 day bootcamp covering beginner level to intermediate level concepts and having a talk on Object Oriented Programming covering concepts like encapsulation , abstraction , ploymorphism & inheritance .  </h4>
 ( click on icon to view the recording )
 <a href="https://youtu.be/6Epay_6oSIQ">
  <img src="https://logolook.net/wp-content/uploads/2022/11/Java-Logo.png" alt="java" width="300" height="200">

@@ -70,10 +70,14 @@
 
 [ How to run a Python Code inside our Native Android App ? ](https://dev-divyansh.hashnode.dev/how-to-run-a-python-code-inside-our-native-android-app)
 
+<br/>
+
+[ Beginner's Guide to APIs ](https://dev-divyansh.hashnode.dev/beginners-guide-to-apis)
+
 <hr/>
 <hr/>
 
-<h2>Android Workshop's / Session's  </h2>
+<h2>Workshop's / Session's Conducted  </h2>
 
 <br/>
 <br/>

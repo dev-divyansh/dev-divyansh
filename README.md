@@ -80,9 +80,25 @@
 
 [ How to run a Python Code inside our Native Android App ? ](https://dev-divyansh.hashnode.dev/how-to-run-a-python-code-inside-our-native-android-app)
 
+<h2>Android Workshop's / Session's  </h2>
 
+<br/>
+<br/>
+<h4> As a Speaker , Delivered the workshop on Android covering the basics , files & folder structure , layouts and much more . </h4>
+( click on icon to view the recording )
+<a href="https://www.youtube.com/embed/b6U4T6hIlJc">
+ <img src="https://media.licdn.com/dms/image/C4D22AQFXCuY5HHz9OA/feedshare-shrink_800/0/1671099710407?e=1689206400&v=beta&t=3x0V0P3skbYxs5u1NZfILQ_kTwjHOA2CWteywNCAM9Q" alt="android" width="400" height="500">
+</a>
 
-<!--  [![Divyansh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dev-divyansh&bg_color=000000&color=613583&line=613583&point=57e389&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-<!-- 
-### let's Connect - Open to collaborate
- -->
+<hr/>
+<br/>
+
+<br/>
+<h4> Conducted a JAVA Bootcamp for OreoDroider's Community ; It was 4 day bootcamp covering beginner level to intermediate level concepts and having a talk on Object Oriented Programming covering concepts like encapsulation , abstraction , ploymorphism & inheritance .  </h4>
+( click on icon to view the recording )
+<a href="https://youtu.be/6Epay_6oSIQ">
+ <img src="https://logolook.net/wp-content/uploads/2022/11/Java-Logo.png" alt="java" width="300" height="200">
+</a>
+
+<hr/>
+<br/>

@@ -6,8 +6,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dev_pratap3250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_pratap3250" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pratap-divyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratap-divyansh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@geeky-dps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="geeky-dps" height="30" width="40" /></a></p>
+<br/>
+  <a href="https://linkedin.com/in/pratap-divyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratap-divyansh" height="30" width="40" /></a>
+<br/>
+  <a href="https://www.youtube.com/@geeky-dps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="geeky-dps" height="30" width="40" /></a></p>
+<a href="https://dev-divyansh.hashnode.dev" target="blank"><img align="]" src="https://user-images.githubusercontent.com/115156321/234099077-e7fcce37-bd98-4713-8544-d3d337509b82.png" alt="" height="30" width="40" /></a></p>
 
 <hr/>
 <hr/>
@@ -73,6 +76,15 @@
 <br/>
 
 [ Beginner's Guide to APIs ](https://dev-divyansh.hashnode.dev/beginners-guide-to-apis)
+
+<br/>
+
+[ What is Machine Learning ? AI , ML , DL ? ](https://dev-divyansh.hashnode.dev/what-is-machine-learning-ai-ml-dl)
+
+<br/>
+
+[ How to add text-to-speech in a Native Android Application](https://dev-divyansh.hashnode.dev/how-to-add-text-to-speech-in-a-native-android-application)
+
 
 <hr/>
 <hr/>

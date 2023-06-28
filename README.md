@@ -94,9 +94,8 @@
 <br/>
 <br/>
 <h4> As a Speaker , Delivered the workshop on Android covering the basics , files & folder structure , layouts and much more . </h4>
-( click on icon to view the recording )
 <a href="https://www.youtube.com/embed/b6U4T6hIlJc">
- <img src="https://media.licdn.com/dms/image/C4D22AQFXCuY5HHz9OA/feedshare-shrink_800/0/1671099710407?e=1689206400&v=beta&t=3x0V0P3skbYxs5u1NZfILQ_kTwjHOA2CWteywNCAM9Q" alt="android" width="400" height="500">
+ RECORDING 
 </a>
 
 <hr/>
@@ -104,18 +103,17 @@
 
 <br/>
 <h4> Conducted a JAVA Bootcamp for OreoDroider's Community ; A 4 day bootcamp covering beginner level to intermediate level concepts and having a talk on Object Oriented Programming covering concepts like encapsulation , abstraction , ploymorphism & inheritance .  </h4>
-( click on icon to view the recording )
 <a href="https://youtu.be/6Epay_6oSIQ">
- <img src="https://logolook.net/wp-content/uploads/2022/11/Java-Logo.png" alt="java" width="300" height="200">
+ RECORDING
 </a>
 
 <hr/>
 <br/>
 <br/>
 <h4>Conducted an API 101 session . Covered about API's their types covered how to use POSTMAN ( API testingtool ) . Had hands where the viewers saved a joke to the server using the POST method . </h4>
-( click on icon to view the recording )
+
 <a href="https://media.licdn.com/dms/image/C5622AQExwhfrMSr-Tg/feedshare-shrink_2048_1536/0/1677966331376?e=1689811200&v=beta&t=fs5_jKzR1cKp0g8iqjd4rFeKkx4gCG-yIMPItZb6tzM">
- <img src="https://media.licdn.com/dms/image/C5622AQExwhfrMSr-Tg/feedshare-shrink_2048_1536/0/1677966331376?e=1689811200&v=beta&t=fs5_jKzR1cKp0g8iqjd4rFeKkx4gCG-yIMPItZb6tzM" alt="java" width="400" height="500">
+RECORDING
 </a>
 
 <hr/>

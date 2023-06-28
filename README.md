@@ -25,7 +25,9 @@
 
 ### Experience
 <hr/>
+
 - Android Developer Intern at Vasukam Private Limited.
+
 - Android Trainer  at SourceKode Institute.
   
 <hr/>

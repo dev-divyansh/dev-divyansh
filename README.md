@@ -22,6 +22,13 @@
 <hr/>
 <hr/>
 
+### Experience
+- Android Developer Intern at Vasukam Private Limited.
+- Android Trainer  at SourceKode Institute.
+  
+<hr/>
+<hr/>
+
 ### 📈📊 Stats
 <!-- <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=dev-divyansh&label=Profile%20Visits&color=1&pretty=false" />
@@ -69,19 +76,14 @@
  <hr/>
  
 <h2>Blog's</h2>
-<br/>
 
 [ How to run a Python Code inside our Native Android App ? ](https://dev-divyansh.hashnode.dev/how-to-run-a-python-code-inside-our-native-android-app)
 
-<br/>
 
 [ Beginner's Guide to APIs ](https://dev-divyansh.hashnode.dev/beginners-guide-to-apis)
 
-<br/>
 
 [ What is Machine Learning ? AI , ML , DL ? ](https://dev-divyansh.hashnode.dev/what-is-machine-learning-ai-ml-dl)
-
-<br/>
 
 [ How to add text-to-speech in a Native Android Application](https://dev-divyansh.hashnode.dev/how-to-add-text-to-speech-in-a-native-android-application)
 
@@ -91,26 +93,19 @@
 
 <h2>Workshop's / Session's Conducted  </h2>
 
-<br/>
-<br/>
 <h4> As a Speaker , Delivered the workshop on Android Development . </h4>
 <a href="https://www.youtube.com/embed/b6U4T6hIlJc">
  RECORDING 
 </a>
 
 <hr/>
-<br/>
-
-<br/>
 <h4> Conducted a JAVA Bootcamp for OreoDroider's Community ; A 4 day bootcamp covering beginner level to intermediate level concepts and having a talk on Object Oriented Programming covering concepts like encapsulation , abstraction , ploymorphism & inheritance .  </h4>
 <a href="https://youtu.be/6Epay_6oSIQ">
  RECORDING
 </a>
 
 <hr/>
-<br/>
-<br/>
-<h4>Conducted an API 101 session . Covered about API's their types covered how to use POSTMAN ( API testingtool ) . Had hands where the viewers saved a joke to the server using the POST method . </h4>
+<h4>I facilitated an introductory API session, providing an overview of APIs, their different types, and demonstrating the usage of POSTMAN as an API testing tool. During the session, participants had a hands-on experience where they interacted with an API by saving a joke to the server using the POST method. </h4>
 
 <a href="https://media.licdn.com/dms/image/C5622AQExwhfrMSr-Tg/feedshare-shrink_2048_1536/0/1677966331376?e=1689811200&v=beta&t=fs5_jKzR1cKp0g8iqjd4rFeKkx4gCG-yIMPItZb6tzM">
 RECORDING

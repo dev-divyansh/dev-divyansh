@@ -93,7 +93,7 @@
 
 <br/>
 <br/>
-<h4> As a Speaker , Delivered the workshop on Android covering the basics , files & folder structure , layouts and much more . </h4>
+<h4> As a Speaker , Delivered the workshop on Android Development . </h4>
 <a href="https://www.youtube.com/embed/b6U4T6hIlJc">
  RECORDING 
 </a>
